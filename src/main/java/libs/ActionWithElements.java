@@ -18,6 +18,7 @@ public class ActionWithElements {
         this.webDriver = webDriver;
         webDriverWait_10 = new WebDriverWait(webDriver, 10);
         webDriverWait_15 = new WebDriverWait(webDriver, 15);
+
     }
 
 
@@ -55,10 +56,10 @@ public class ActionWithElements {
     public boolean isElementDisplayed(WebElement webElement){
         try{
             boolean state = webElement.isDisplayed();
-            logger.info("Is element displayed -> " + state);
+            logger.info("Is element displayed -> " + state + ", " + webElement + " is displayed");
             return webElement.isDisplayed();
         }catch (Exception e){
-            logger.info("Is element displayed -> " + false);
+            logger.info("Is element displayed -> " + false+ ", " + webElement + " is not displayed");
             return false;
         }
     }
@@ -88,13 +89,10 @@ public class ActionWithElements {
         }
     }
 
-//    public boolean isElementDisplayed(String locator) {
-//        try{
-//            return isElementDisplayed(webDriver.findElement(By.xpath(locator)));
-//        }catch (Exception e){
-//            return false;
-//        }
-
+//    public void stepToNextTab(){
+//        String windowHandler = webDriver.getWindowHandle();
+//        webDriver.switchTo().window(windowHandler);
+//    }
 
 
 
