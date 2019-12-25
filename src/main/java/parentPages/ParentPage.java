@@ -53,9 +53,7 @@ public class ParentPage {
         }
     }
 
-    public void setCheckBoxAgree(){
-        actionsWithElements.setStateToCheckBox(checkBox, "check");
-    }
+
 
 
     private void stopTestAndPrintMessage() {

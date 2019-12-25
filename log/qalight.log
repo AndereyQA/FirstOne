@@ -600,3 +600,204 @@
 2019-23-12 23:29:55   INFO [libs.ActionWithElements] : 123456 was inputed in to input
 2019-23-12 23:29:55   INFO [libs.ActionWithElements] : Element was clicked 
 2019-23-12 23:29:55   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 16:30:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 16:30:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 16:30:47   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 16:30:48   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 16:30:48   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 16:33:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 16:33:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 16:33:15   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 16:33:30   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 16:34:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 16:34:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 16:34:14   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 16:34:15   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 16:34:15   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 16:35:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 16:35:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 16:35:38   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 16:35:39   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 16:35:39   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 17:04:14   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:04:14   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:04:25   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:04:26   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 17:04:26   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 17:19:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:19:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:19:35   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:19:36   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 17:19:36   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 17:40:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:40:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:40:20   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:40:21   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 17:40:21   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 17:50:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:50:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:51:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:51:07   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 17:51:07   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 17:53:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:53:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:53:13   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:53:28   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 17:57:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 17:57:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 17:57:43   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 17:57:44   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 17:57:44   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 18:11:00   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 18:11:00   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 18:11:12   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 18:11:13   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 18:45:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 18:45:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 18:45:30   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 18:45:45   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:16:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:16:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:16:32   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:16:48   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:17:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:17:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:17:54   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:17:55   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 19:17:55   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 19:29:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:29:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:30:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:30:07   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 19:30:07   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 19:30:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:30:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:30:51   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:31:07   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:33:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:33:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:33:48   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:34:04   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:35:39   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:35:39   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:35:51   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:36:06   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:36:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:36:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:36:33   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:36:34   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 19:36:34   INFO [libs.ActionWithElements] : Is element displayed -> true
+2019-25-12 19:36:34   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 19:38:01   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:38:01   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:38:13   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:38:28   INFO [libs.ActionWithElements] : Is element displayed -> false
+2019-25-12 19:41:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:41:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:41:36   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:41:37   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 19:41:37   INFO [libs.ActionWithElements] : Is element displayed -> trueButton Forgot Pass
+2019-25-12 19:41:37   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 19:43:13   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 19:43:13   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 19:43:25   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 19:43:26   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 19:43:26   INFO [libs.ActionWithElements] : Is element displayed -> true Button Forgot Pass
+2019-25-12 19:43:26   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 20:04:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:04:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:04:54   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:04:55   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:04:55   INFO [libs.ActionWithElements] : Is element displayed -> true Button Forgot Passis displayed
+2019-25-12 20:04:55   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 20:06:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:06:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:07:05   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:07:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:07:06   INFO [libs.ActionWithElements] : Is element displayed -> true Button Forgot Pass is displayed
+2019-25-12 20:07:06   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 20:08:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:08:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:08:21   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:08:23   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:08:23   INFO [libs.ActionWithElements] : Is element displayed -> true,Button Forgot Pass is displayed
+2019-25-12 20:08:23   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 20:08:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:08:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:08:59   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:09:00   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:09:00   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Forgot Pass is displayed
+2019-25-12 20:09:00   INFO [pages.LoginPage] : Button Forgot pass is present
+2019-25-12 20:09:32   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:09:32   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:09:45   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:10:00   INFO [libs.ActionWithElements] : Is element displayed -> false, Button Forgot Pass is not displayed
+2019-25-12 20:12:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:12:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:12:30   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:12:31   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:12:31   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Forgot Pass is displayed
+2019-25-12 20:32:27   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:32:27   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:32:39   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:32:40   INFO [libs.ActionWithElements] : Element was clicked 'Button Open Acc'
+2019-25-12 20:32:41   INFO [libs.ActionWithElements] : Element was clicked 'Button Take Tarif 1'
+2019-25-12 20:32:56   INFO [libs.ActionWithElements] : Is element displayed -> false, Tariff Test Drive 1 is not displayed
+2019-25-12 20:44:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:44:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:44:17   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:44:18   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:44:18   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Forgot Pass is displayed
+2019-25-12 20:44:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:44:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:44:50   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:44:51   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:45:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:45:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:45:20   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:45:35   INFO [libs.ActionWithElements] : Is element displayed -> false, Button Forgot Pass is not displayed
+2019-25-12 20:46:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:46:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:46:35   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:46:36   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 20:46:36   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Forgot Pass is displayed
+2019-25-12 20:46:36   INFO [libs.ActionWithElements] : Element was clicked 'Button Create Acc'
+2019-25-12 20:46:51   INFO [libs.ActionWithElements] : Is element displayed -> false, Info Button Bonuses is not displayed
+2019-25-12 20:55:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 20:55:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 20:55:32   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 20:55:33   INFO [libs.ActionWithElements] : Element was clicked 'Button Open Acc'
+2019-25-12 20:55:33   INFO [libs.ActionWithElements] : Element was clicked 'Button Take Tarif 1'
+2019-25-12 20:55:49   INFO [libs.ActionWithElements] : Is element displayed -> false, Tariff Test Drive 1 is not displayed
+2019-25-12 21:14:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 21:14:23   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 21:14:35   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 21:14:35   INFO [libs.ActionWithElements] : Element was clicked 'Button Open Acc'
+2019-25-12 21:14:36   INFO [libs.ActionWithElements] : Element was clicked 'Button Take Tarif 1'
+2019-25-12 21:14:52   INFO [libs.ActionWithElements] : Is element displayed -> false, Tariff Test Drive 1 is not displayed
+2019-25-12 21:16:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 21:16:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 21:17:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 21:17:07   INFO [libs.ActionWithElements] : Element was clicked 'Button Open Acc'
+2019-25-12 21:17:08   INFO [libs.ActionWithElements] : Element was clicked 'Button Take Tarif 1'
+2019-25-12 21:17:23   INFO [libs.ActionWithElements] : Is element displayed -> false, Tariff Test Drive 1 is not displayed
+2019-25-12 21:30:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 21:30:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 21:31:05   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 21:31:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 21:31:06   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Forgot Pass is displayed
+2019-25-12 21:31:06   INFO [libs.ActionWithElements] : Element was clicked 'Button Create Acc'
+2019-25-12 21:31:22   INFO [libs.ActionWithElements] : Is element displayed -> false, Info Button Bonuses is not displayed
+2019-25-12 21:47:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 21:47:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 21:47:34   INFO [libs.ActionWithElements] : Vanya was inputed in to input
+2019-25-12 21:47:35   INFO [libs.ActionWithElements] : 123456 was inputed in to input
+2019-25-12 21:47:35   INFO [libs.ActionWithElements] : Element was clicked 
+2019-25-12 21:47:35   INFO [libs.ActionWithElements] : Is element displayed -> true, Message Wrong Pass is displayed
+2019-25-12 21:48:34   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+2019-25-12 21:48:34   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\Andrey\.m2\repository\webdriver\chromedriver\win32\79.0.3945.36\chromedriver.exe
+2019-25-12 21:48:45   INFO [libs.ActionWithElements] : Element was clicked 'Button Language'
+2019-25-12 21:48:47   INFO [libs.ActionWithElements] : Element was clicked 'Button Enter To Alfa'
+2019-25-12 21:48:47   INFO [libs.ActionWithElements] : Is element displayed -> true, Button Chat is displayed
+2019-25-12 21:48:47   INFO [libs.ActionWithElements] : Element was clicked 'Button Chat'
+2019-25-12 21:48:47   INFO [libs.ActionWithElements] : Is element displayed -> true, Chat Is Open is displayed

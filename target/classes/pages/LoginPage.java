@@ -1,12 +1,13 @@
 package pages;
 
 
-import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import parentPages.ParentPage;
 import ru.yandex.qatools.htmlelements.element.Link;
+
+import static org.junit.Assert.fail;
 
 
 public class LoginPage extends ParentPage {
@@ -57,7 +58,7 @@ public class LoginPage extends ParentPage {
         try{
             webDriver.get("https://ok.alfabank.com.ua");
         }catch (Exception e ){
-            Assert.fail("Browser error");
+            fail("Browser error");
         }
     }
 
@@ -70,13 +71,6 @@ public class LoginPage extends ParentPage {
         actionsWithElements.enterTextInToInput(inputPassword, password);
     }
 
-     public void inputInn(String inn ){
-       actionsWithElements.enterTextInToInput(inputInn, inn);
-    }
-
-    public void inputPhoneTo(String phone){
-        actionsWithElements.enterTextInToInput(inputPhone, phone);
-    }
 
 
     public void clickOnButtonNext() {
@@ -94,8 +88,13 @@ public class LoginPage extends ParentPage {
 
     }
 
-    public void buttonForgotPass(){
-        actionsWithElements.isElementDisplayed(presentButtonForgotPass);
+    public void isButtonForgotPassDisplayed(){
+        actionsWithElements.isElementDisplayed(buttonForgotPass);
+    }
+
+    public void stepToNextTab(){
+        String windowHandler = webDriver.getWindowHandle();
+        webDriver.switchTo().window(windowHandler);
     }
 
 
